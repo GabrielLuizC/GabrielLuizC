@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Everyone, My name is Gabriel Luiz Conchinel, I am currently a student in the area of ​​technology, studying software engineering and feeling the pleasures of programming, Thanks Everyone 👋
+
+
 
 <!--
 **GabrielLuizC/GabrielLuizC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
